@@ -1,4 +1,4 @@
-# Machine learning studying with Python
+# Machine Learning
 
 ## A common pipeline for applying machine learning 
 
